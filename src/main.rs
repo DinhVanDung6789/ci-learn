@@ -12,6 +12,6 @@ mod test {
 
     #[test]
     fn working() {
-        assert_eq!("Hello, worlds!", println(String::from("Hello, world!")));
+        assert_eq!("Hello, worldss!", println(String::from("Hello, world!")));
     }
 }
