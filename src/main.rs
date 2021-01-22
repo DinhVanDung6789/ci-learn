@@ -1,5 +1,6 @@
 fn main() {
     println!("{}", println(String::from("Hello, world!")));
+    ()
 }
 
 fn println(s: String) -> String {
